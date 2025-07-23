@@ -14,8 +14,7 @@ Create and configure a Virtual Cloud Network (VCN) in OCI, complete with public/
 **Files Included:**
 - `instructions.docx` — Step-by-step instructions
 - `network-topology.png` — Network diagram
-- `vcn-configuration.tf` — Terraform configuration for VCN
-- `subnets.json` — Subnet definitions
+
 
 **Cloud Skills Demonstrated:**  
 - VCN creation and management
