@@ -1,1 +1,22 @@
 # Detailed procedure for creating and configuring a VCN
+
+Create a Virtual Cloud Network 
+In this lab, you will create a VCN and associated resources by using the VCN Wizard. 
+Steps 
+1.Log in to the OCI Console.
+2.In the Console ribbon at the top of the screen, click the Region icon to expand the menu.
+Ensure that you are in the correct region, US East (Ashburn).
+3.Click the Main Menu, click Networking, and then click Virtual Cloud Networks.
+4.Click Start VCN Wizard.
+5.Select the Create VCN with Internet Connectivity option, and then click Start VCN Wizard.
+6.Enter the following values:
+Name: IAD-FA-LAB02-VCN-01
+Compartment: Select your <assigned compartment>.
+7.Leave the default values for the remaining fields. Click Next.
+8.Review and understand the list of resources that the OCI VCN Wizard will create. Notice
+that the wizard will configure CIDR block ranges for VCN IP addresses, and for the public
+and private subnets. It will also set up security list rules and route table rules to enable
+basic access to the VCN.
+9.Click Create to start creating the VCN and its resources and wait for the VCN Wizard to
+successfully complete the VCN creation.
+10.  Click View Virtual Cloud Network to verify the creation of the VCN and its resources.
