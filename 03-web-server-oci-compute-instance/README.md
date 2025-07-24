@@ -13,7 +13,6 @@ Deploy a Linux compute instance on OCI, install a web server, and test public co
 
 **Files Included:**
 - `instructions.docx` — Detailed hands-on guide
-- `web-server-config.sh` — Script to install/configure Apache
 - `web-server-diagram.png` — Deployment diagram
 - `ssh-key-setup.md` — SSH configuration instructions
 
