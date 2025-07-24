@@ -1,1 +1,12 @@
+lsblk output:
+
+NAME               MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
+sda                  8:0    0  50G  0 disk
+└─sda1               8:1    0  50G  0 part /
+oracleoci/oraclevdb  8:16   0  50G  0 disk /mnt/blockvolume
+
+Successfully mounted at /mnt/blockvolume.
+Wrote test file: echo "block volume test" > /mnt/blockvolume/test.txt
+Read back: cat /mnt/blockvolume/test.txt
+block volume test
 
