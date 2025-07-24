@@ -17,9 +17,8 @@ Set up and configure an Oracle Cloud Infrastructure (OCI) Load Balancer to distr
 ## Files Included
 
 - `instructions.docx` — Detailed, step-by-step setup guide with screenshots.
-- `load-balancer-config.yaml` — Example configuration/template for provisioning the load balancer.
 - `diagram.png` — Architecture diagram illustrating the load balancer and backend compute setup.
-- `test-cases.txt` — Testing summary with results confirming round-robin distribution or health check triggers.
+
 
 ## Cloud Skills Demonstrated
 
