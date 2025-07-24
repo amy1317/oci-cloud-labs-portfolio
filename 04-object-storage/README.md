@@ -14,7 +14,7 @@ This lab demonstrates how to create an Object Storage bucket in Oracle Cloud Inf
 **Files Included:**
 - `instructions.docx` — Full lab guide with screenshots
 - `create_bucket.md` — Markdown version of the step-by-step instructions
-- `upload-object.py` — Linux script to upload objects to the bucket via OCI SDK
+- `upload-object.sh` — Linux script to upload objects to the bucket via OCI SDK
 - `sample-object.txt` — Example file uploaded during the lab
 - `object-storage-diagram.png` — Diagram of the Object Storage workflow and bucket setup
 
