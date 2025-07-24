@@ -15,7 +15,6 @@ This lab covers the creation and attachment of a Block Volume to a virtual machi
 - `instructions.docx` — Step-by-step lab instructions
 - `block-volume-setup.md` — Markdown notes about volume creation and partitioning
 - `attach-volume.sh` — Shell script to automate volume attachment and mounting
-- `volume-config.json` — Sample OCI volume configuration (API format)
 - `block-volume-diagram.png` — Visual snapshot of instance and volume relationship
 - `test-results.txt` — Output from mount and write tests on the compute instance
 
